@@ -2,7 +2,7 @@
 
 Sim Dock 是面向飞行模拟玩家的 Windows 桌面管理工具，将游戏、外部软件、模组、超级手册、内置膝板和桌面/OpenXR VR 浮窗集中到一个入口。
 
-当前稳定安装版：**V1.4**（安装包版本 `1.4.0`）
+当前稳定安装版：**V1.8**（安装包版本 `1.8.0`）
 
 - [下载最新版](https://github.com/Jonitane/Sim-Dock/releases/latest)
 - [提交问题或建议](https://github.com/Jonitane/Sim-Dock/issues)
@@ -26,10 +26,10 @@ Sim Dock 是玩家社区独立产品，与 Eagle Dynamics 及所接入软件的�
 
 ## 下载与安装
 
-1. 从 [GitHub Releases](https://github.com/Jonitane/Sim-Dock/releases/latest) 下载 `Sim.Dock.Setup.1.4.0.exe` 和 SHA-256 校验文件。
+1. 从 [GitHub Releases](https://github.com/Jonitane/Sim-Dock/releases/latest) 下载 `Sim.Dock.Setup.1.8.0.exe` 和 SHA-256 校验文件。
 2. 安装前完全退出 DCS 与 Sim Dock；如有已启用 Mod，建议先停用后再更新。
-3. 已安装 Sim Dock V1 的用户可直接运行 V1.4 安装程序更新，现有 DATA、设置、手册/索引和模组状态会保留。
-4. 如果仍在使用 DCSHUB，请先在 Windows“已安装的应用”中手动卸载；V1.4 安装器不会识别、迁移或删除 DCSHUB。
+3. 已安装 Sim Dock V1 的用户可直接运行 V1.8 安装程序更新，现有 DATA、设置、手册/索引和模组状态会保留。
+4. 如果仍在使用 DCSHUB，请先在 Windows“已安装的应用”中手动卸载；V1.8 安装器不会识别、迁移或删除 DCSHUB。
 
 安装器只处理 Sim Dock 全新安装与 Sim Dock `1.x` 更新。DCS、Saved Games、外部模组库和自定义内容源不会被删除。
 
@@ -37,7 +37,7 @@ Sim Dock 是玩家社区独立产品，与 Eagle Dynamics 及所接入软件的�
 
 ## 更新方式
 
-旧 DCSHUB 的更新入口仍提供 Sim Dock V1.0 迁移提示，用户可以选择安装或稍后处理。Sim Dock V1 只读取本仓库 `1.x` 稳定版本，当前会提示 V1.4；它不会自动下载或安装，只有用户确认后才会打开下载入口。
+旧 DCSHUB 的更新入口仍提供 Sim Dock V1.0 迁移提示，用户可以选择安装或稍后处理。Sim Dock V1 只读取本仓库 `1.x` 稳定版本，当前会提示 V1.8；它不会自动下载或安装，只有用户确认后才会打开下载入口。
 
 ## 使用支持
 
